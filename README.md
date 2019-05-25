@@ -3,7 +3,7 @@ Zauba Corp is India's leading provider of commercial information and insight on 
 This scraper extracts data from the website based on the search keyword and exports data into the csv file.
 You have to install some open-source external libraries like BeautifulSoup,requests.This script will run on python3 only.
 
-## Run the code :
+## Run the code
 python3 zauba_scarper.py
 
 ## Package install
